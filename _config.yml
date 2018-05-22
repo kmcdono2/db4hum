@@ -1,0 +1,45 @@
+# Jekyll workshop-template evanwill
+# https://github.com/evanwill/workshop-template
+# based on minima theme https://github.com/jekyll/minima
+
+# Notes:
+# - pages with "nav: true" in front matter will be in header nav
+# - figure include for centered images, put file in images directory and use: {% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
+
+# Site settings
+title: Databases in the Humanities
+# description and keywords for meta tags
+description: "When and Why to Use Databases in the Humanities"
+keywords: "workshops, digital humanities, databases"
+
+# author settings for cc-by
+author: Katie McDonough
+pub_year: 2018
+github_username: kmcdono2
+twitter_username: khetiwe24
+
+# add the full url for the github repository
+repo: "https://github.com/kmcdono2/db4hum"
+
+# site urls
+# add the url for the domain,
+# on gh-pages: https://username.github.io 
+url: https://kmcdono2.github.io
+# add subsection of the domain,
+# on gh-pages this is the name of the repository
+baseurl: /db4hum
+
+# add google analytics if desired (optional)
+# if blank, it will be ignored
+# use JEKYLL_ENV=production on build command
+google_analytics:
+
+# defaults (to simplify front matter)
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Build settings
+markdown: kramdown
