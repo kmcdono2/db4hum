@@ -1,5 +1,5 @@
 ---
-title: graph
+title: Graph
 nav: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Build
+title: Relational
 nav: true
 ---
 - Part 3 explores the reasons why building a database can be useful for research.
