@@ -3,6 +3,12 @@ title: Survey
 nav: true
 ---
 
+*** databases
+define what counts as a database
+
+
+
+
 # Databases and the humanities
 
 [Use]
@@ -51,6 +57,9 @@ As scholars move away from using pen and paper to take notes, many have adopted 
 - Evernote
 - Scrivener
 - Tropy (images + metadata + notes)
+
+
+
 
 
 

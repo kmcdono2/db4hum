@@ -39,32 +39,51 @@ Relational databases contain multiple tables that are linked through keys (or ID
 relational
 French Book Trade
 
-
+CHECK
 graph
 HUNI, https://medium.com/@bestqualitycrab/https-medium-com-huni2-0-48373de1e3a1
 Six Degrees of Francis Bacon
 
 ## How do you create a database?
 
+Data Modeling
+
 1. Develop the structure based on your goals and source material
  - determine what the rows and columns will be
 
-####"Source-oriented"
+ - determine how you represent information
+  - *minimize data transformations in the beginning*
+  - *put only one piece of information in each cell*
+
+  EXAMPLE CSV vs. multiple tables (repeating authors for each book)
+
+#### "Source-oriented"
 
 If you are creating a database to replicate as much as possible an individual or set of similar sources, you may want to closely relate the design (the schema) to the original source structure.
 
-####"Method-oriented"
+#### "Method-oriented"
 
 If you are working at a composite level, you can design your database to capture specific kinds of information that will help you answer your research question. In this case it is important to document the provenance of the information in each cell.
 
 
 
+
 2. Create a standardized data entry procedure
-  - *minimize data transformations in the beginning*
-  - *put only one piece of information in each cell*
+
+
+documentation
+about modeling decisions
+and data entry process
+
+
+DEALING WITH UNCERTAINTY/GAPS
+exampkes of how projects how modeled uncertainty
+
 
 3. Document where information originates
 4. Document any data transformations (e.g. standardization of dates, etc.)
+
+
 5. Begin collecting data in single sheets (Excel, Google sheets)
 
 
@@ -77,7 +96,17 @@ Document in whatever way makes sense to you.
 
 
 ## What do you do with the database?
+
 ### Querying
+local Query
+
+API
+
+vs UI (use FBTEE)
+
+
+
+
 SQL
 
 ### Visualizing/Mapping
