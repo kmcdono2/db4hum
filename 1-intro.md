@@ -5,33 +5,53 @@ nav: true
 
 # What is a database?
 
-*** databases
-define what counts as a database
+A database is a collection of data that is organized and stored according to some purpose.
+
+The database is organized into tables (which look like HTML tables or spreadsheets). Each table
+stores data about some real-world entity.
+
+Each table is organized into rows and columns.
 
 
 
 # Early Databases in the Humanities
 
 
-library catalog
-Father Busa
+[any] Library catalog [ever]
+Father Busa's index
 
 
 
-## Collaborations with Linguists
 
+## Interdisciplinary Influences
+### Linguistics
 FRANTEXT
 
+(Jacques Guillhamou, Régine Robin)
+
+### Geography
+Historical Geodatabases (Great Britain Historical GIS, China Historical GIS, etc.)
 
 
 
-# Why does it matter?
+
+# Thinking about databases
+
+In the last twenty years, humanities scholars have written about databases as a genre worthy of study.
 
 - "Database as Symbolic Form" (Manovich)
 
+## Questions to keep in mind
+
+### Are databases only digital?
+
+To what extent can we apply the term "database" to historical forms of knowledge organization?
 What is new about digital databases if humanists use them to mimic index cards?
 
+### What is the relationship between databases and the other forms of knowledge we use and create?
+
 What is the relationship between database and narrative?
+
 
 
 
@@ -103,21 +123,26 @@ Finally, we come full circle to databases that are at the foundation of research
 
 ## Why would you build a database?
 
-- to generate knowledge
+- to generate knowledge through the process of creation/representation
 - to remember/capture
 - to organize/retrieve
 - to relate/associate
+
 
 ## What kinds of databases are there?
 
 ### Flat
 
-Flat databases contain only one table.
+Flat databases contain only one table (or sheet). They are helpful when you need to represent one-to-one relationships.
+
+One book has one author.
+One person has one address.
+One object exists in one museum.
 
 
-#### When is Excel not enough?
+#### When is one spreadsheet not enough?
 
-
+Often, we encounter information that is not neatly organized into one-to-one relationships.
 
 
 ### Relational
@@ -127,6 +152,13 @@ Relational databases contain multiple tables that are linked through keys (or ID
 French Book Trade
 
 CHECK
+
+
+
+
+
+
+
 
 ### Graph
 

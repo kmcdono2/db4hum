@@ -14,7 +14,7 @@ If you want to try setting up a database with a provided test dataset, please br
 
 This workshop is offered by Stanford Libraries' [Center for Interdisciplinary Research](http://library.stanford.edu/research/cidr) as part of its mission to provide training in technical academic research practices and applied research methods.
 
-Taught by [Katherine McDonough](https://library.stanford.edu/people/kmcdono2).
+Taught by [Katie McDonough](https://library.stanford.edu/people/kmcdono2).
 
 
 # Contents

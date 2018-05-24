@@ -60,6 +60,35 @@ If you are working at a composite level, you can design your database to capture
 
 
 
+# Exercise 1
+
+Navigate to [this Google Sheet of "bad data"](https://docs.google.com/spreadsheets/d/1i9jPZaQHoqJ4Tti7TPJwKkGoL70lULD8cRmhqfwbESU/edit?usp=sharing).
+
+{% include figure.html file="AMRennes_tax_role_ex.png" alt="tax role example" width="75%" %}
+
+  - Thoughts about the layout?  
+  - Thoughts about data entry?  
+  - How would you describe the relationships between the information in each column?  
+  - Would this be a good candidate for a relational table?  
+
+Using a piece of scratch paper, sketch out a new schema for the information in this single table.
+
+  - What tables would you create? What would be the columns in those tables? How are the tables related to each other (e.g. which primary keys act as foreign keys in other tables?)
+
+Compare your schema with [this one](https://app.quickdatabasediagrams.com/#/schema/7rR1maovaUymxmhwaS-AIQ).
+
+ - 
+
+
+
+
+
+
+
+
+
+
+
 
 2. Create a standardized data entry procedure
 
