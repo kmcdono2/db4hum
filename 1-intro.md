@@ -154,6 +154,13 @@ French Book Trade
 
 ### Graph
 
-[HUNI](https://medium.com/@bestqualitycrab/https-medium-com-huni2-0-48373de1e3a1)
+A graph database is based on edges, nodes, and properties. Graph databases directly store the relationship between records. Relational databases link information through keys.
 
-{% include figure.html file="huni2.png" alt="intro image here" width="75%" %}
+{% include figure.html file="graphex.png" alt="graphmodel" width="75%" %}
+
+Examples and Discussions
+- Panama papers
+- wikidata
+- Build your own graph of text annotations with [Recogito](http://recogito.pelagios.org/)
+- Deb Verhoeven and Toby Burrows, ["Even Sweeter: What happens when the humanities gets graphic"](https://medium.com/@bestqualitycrab/https-medium-com-huni2-0-48373de1e3a1)
+- Elijah Meeks, ["Visualizing Databases"](https://dhs.stanford.edu/spatial-humanities/visualizing-databases/)

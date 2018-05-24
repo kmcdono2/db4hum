@@ -74,7 +74,7 @@ not be unique. Foreign keys make relational databases possible.
 | many-to-many      | many Xs have many Ys     |  many historians attend many conferences      |
 
 
-#Putting this into action
+# Putting this into action
 
 *Harvey Quamen, guru of humanities databases, suggests the following process for determining what to do with your material:*
 
