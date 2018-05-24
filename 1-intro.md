@@ -1,15 +1,42 @@
 ---
-title: Survey
+title: Intro
 nav: true
 ---
+
+# What is a database?
 
 *** databases
 define what counts as a database
 
 
 
+# Early Databases in the Humanities
 
-# Databases and the humanities
+
+library catalog
+Father Busa
+
+
+
+## Collaborations with Linguists
+
+FRANTEXT
+
+
+
+
+# Why does it matter?
+
+- "Database as Symbolic Form" (Manovich)
+
+What is new about digital databases if humanists use them to mimic index cards?
+
+What is the relationship between database and narrative?
+
+
+
+
+# Where do we find them in humanities research?
 
 [Use]
 1. Discovery
@@ -43,8 +70,11 @@ In time, applications adapted to help researchers organize information and ideas
 
 2. Archive or fieldwork data management
     - bird's eye view of materials
+
     - information collated from many sources of different kinds
+
     - digitization of individual or sets of similar sources (and annotation)
+
     - digitization of an entire archival collection
 
 
@@ -71,10 +101,35 @@ Finally, we come full circle to databases that are at the foundation of research
 
 
 
-[Critical Perspectives]
+## Why would you build a database?
 
-- "Database as Symbolic Form" (Manovich)
+- to generate knowledge
+- to remember/capture
+- to organize/retrieve
+- to relate/associate
 
-What is new about digital databases if humanists use them to mimic index cards?
+## What kinds of databases are there?
 
-What is the relationship between database and narrative? ()
+### Flat
+
+Flat databases contain only one table.
+
+
+#### When is Excel not enough?
+
+
+
+
+### Relational
+
+Relational databases contain multiple tables that are linked through keys (or IDs).
+
+French Book Trade
+
+CHECK
+
+### Graph
+
+[HUNI](https://medium.com/@bestqualitycrab/https-medium-com-huni2-0-48373de1e3a1)
+
+Six Degrees of Francis Bacon
