@@ -20,7 +20,7 @@ http://fbtee.uws.edu.au/stn/interface/
 
 APIs allow you to query a database often with more flexibility than a user interface. You can display the results in your browser and also download them to use offline.
 
-You can notice that API querys are managed through the URL:
+You can notice that API queries are managed through the URL:
 https://www.europeana.eu/api/v2/search.json?wskey=xxxx&query=lisa+NOT+mona
 
 (You do need an API key to access the Europeana API Console)
