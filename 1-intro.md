@@ -33,14 +33,15 @@ In the last twenty years, humanities scholars have written about databases as a 
 
 ## Questions to keep in mind
 
-### Are databases only digital?
+  Are databases only digital?  
 
-To what extent can we apply the term "database" to historical forms of knowledge organization?
-What is new about digital databases if humanists use them to mimic index cards?
+  To what extent can we apply the term "database" to historical forms of knowledge organization?  
 
-### What is the relationship between databases and the other forms of knowledge we use and create?
+  What is new about digital databases if humanists use them to mimic index cards?  
 
-What is the relationship between database and narrative?
+  What is the relationship between databases and the other forms of knowledge we use and create?  
+
+  What is the relationship between database and narrative?  
 
 
 
