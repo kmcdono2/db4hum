@@ -151,17 +151,9 @@ Relational databases contain multiple tables that are linked through keys (or ID
 
 French Book Trade
 
-CHECK
-
-
-
-
-
-
-
 
 ### Graph
 
 [HUNI](https://medium.com/@bestqualitycrab/https-medium-com-huni2-0-48373de1e3a1)
 
-Six Degrees of Francis Bacon
+{% include figure.html file="huni2.png" alt="intro image here" width="75%" %}

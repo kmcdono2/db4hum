@@ -6,17 +6,18 @@ nav: true
 # Graph Databases
 
 
-panama papers
-wikidata
-
-data.bnf.fr
-
-check to see if 6 degrees is actually a graph database
 
 
 "While it could be argued that all databases can be devolved into graph databases, and as such all databases are graphs and therefore networks in the most pure sense, I think that there’s something more practical at play here: the importance of network visualization for database aesthetics.  Summaries and statistics drawn from within the structure of the database are not enough.  If there is to be any real grappling with the database as an culturally-embedded construct, then it has to be done in a manner that reveals the data, the model and the population simultaneously." [Elijah Meeks](https://dhs.stanford.edu/spatial-humanities/visualizing-databases/)
 
 
+
+
+
+panama papers
+wikidata
+
+data.bnf.fr
 
 
 Access to graph database

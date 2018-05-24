@@ -17,16 +17,7 @@ This workshop is offered by Stanford Libraries' [Center for Interdisciplinary Re
 Taught by [Katie McDonough](https://library.stanford.edu/people/kmcdono2).
 
 
-# Contents
 
-This workshop introduces humanities scholars to databases.
-
-- Part 1 surveys the ways that historians, literary scholars, musicologists, and others interact with databases.
-- Part 2 is a short history of databases in the humanities.
-- Part 3 explores the reasons why building a database can be useful for research.
-- Part 4 outlines some best practices in relational database design.
-- Part 5 introduces graph databases.
-- Part 6 offers some thoughts about the implications of using databases in humanities research.
 
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
