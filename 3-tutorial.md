@@ -46,12 +46,26 @@ We are going to explore the database from the [French Book Trade in Enlightenmen
 [MAMP](https://www.mamp.info/en/)
 
 
-1. structure
+1. Structure
 
+{% include figure.html file="manuscripts.png" alt="manuscripts_structure" width="75%" %}
 
+2. Data normalization issues
 
+{% include figure.html file="fbteebooks.png" alt="books" width="75%" %}
 
+FRBR
 
+{% include figure.html file="frbr.png" alt="frbr" width="75%" %}
+
+{% include figure.html file="fbteepeople.png" alt="people" width="75%" %}
+
+{% include figure.html file="fbteeplace.png" alt="places" width="75%" %}
+
+3. Redesign challenges
+
+- Centralizing all person Entities
+- Connecting to BnF and CERL authority records for people, places, and books
 
 
 # What do you do with the database?

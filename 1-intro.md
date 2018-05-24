@@ -17,20 +17,10 @@ Each table is organized into rows and columns.
 # Early Databases in the Humanities
 
 
-[any] Library catalog [ever]
-Father Busa's index
-
-
-
-
-## Interdisciplinary Influences
-### Linguistics
-FRANTEXT
-
-(Jacques Guillhamou, Régine Robin)
-
-### Geography
-Historical Geodatabases (Great Britain Historical GIS, China Historical GIS, etc.)
+- [any] Library catalog [ever]
+- Father Busa's database of the works of Saint Thomas Aquinas (print volumes in the 1970s, CD-ROM in 1989)
+- [FRANTEXT](http://artfl-project.uchicago.edu/content/artfl-frantext)
+- Historical Geodatabases (Great Britain Historical GIS, China Historical GIS, etc.)
 
 
 
@@ -56,9 +46,9 @@ What is the relationship between database and narrative?
 
 
 
-# Where do we find them in humanities research?
+# Where do we find them in humanities research now?
 
-[Use]
+##[Use]
 1. Discovery
     - secondary sources (for ex. Searchworks, JSTOR)
     - primary sources (EBBO, Internet Archive, NETFLIX)
@@ -67,10 +57,7 @@ What is the relationship between database and narrative?
     - Hathitrust research environment
 
 
-
-
-
-[Create]
+##[Create]
 1. Reference/bibliographic management (of research or teaching materials)
 [and organization of notes]
 
@@ -82,9 +69,6 @@ If the index card note-taking system is formally related to the card catalog era
 - Endnote
 - Mendeley
 - Zotero
-
-
-
 
 In time, applications adapted to help researchers organize information and ideas from other kinds of digital records.
 
@@ -107,10 +91,6 @@ As scholars move away from using pen and paper to take notes, many have adopted 
 - Evernote
 - Scrivener
 - Tropy (images + metadata + notes)
-
-
-
-
 
 
 Finally, we come full circle to databases that are at the foundation of research outputs in humanities projects.
